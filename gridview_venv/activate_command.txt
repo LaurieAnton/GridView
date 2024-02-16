@@ -1,0 +1,1 @@
+.\gridview_venv\Scripts\activate
